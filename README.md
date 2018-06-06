@@ -1,2 +1,2 @@
 # cookbook
-Food recipes
+My personal food recipes
