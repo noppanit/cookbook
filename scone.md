@@ -1,6 +1,6 @@
 # Scone
 
-![scone](https://upload.wikimedia.org/wikipedia/commons/c/c6/Lemon_Scone_with_Jam_%286849605425%29.jpg | width=100)
+![scone](https://upload.wikimedia.org/wikipedia/commons/c/c6/Lemon_Scone_with_Jam_%286849605425%29.jpg)
 
 ## Ingredient Listing
 
